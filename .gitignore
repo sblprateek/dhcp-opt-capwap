@@ -1,0 +1,5 @@
+# build artifacts
+*.o
+*.a
+test_opt
+test_acdisc
